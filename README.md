@@ -1,2 +1,2 @@
-# School_Prokect_2
+# School_Project_2
 Second Project in C++.
